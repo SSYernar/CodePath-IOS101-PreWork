@@ -2,7 +2,7 @@
 
 Submitted by: *Yernar Sadybekov*
 
-*ColorChanger* is an app that changes the background color of the app to a random color everytime a user presses a button.
+*ColorChanger* is an app that changes the background color of the app to a random color everytime when the user presses a button.
 
 Time spent: *0.2* hours spent in total
 
