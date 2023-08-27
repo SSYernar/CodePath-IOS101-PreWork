@@ -48,7 +48,7 @@ The Seek Discomfort app is a transformative platform that encourages individuals
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+No challenges were encountered while building the app.
 
 ## License
 
